@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"ani-home-5k.atlas","text":"\nani-home-5k.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nlobby-5k-text\n  rotate: false\n  xy: 2, 2\n  size: 76, 49\n  orig: 76, 49\n  offset: 0, 0\n  index: -1\nlobby-title-5k\n  rotate: false\n  xy: 2, 53\n  size: 171, 149\n  orig: 171, 149\n  offset: 0, 0\n  index: -1\n"}

@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"beer.atlas","text":"\nbeer.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbeer\n  rotate: false\n  xy: 218, 122\n  size: 169, 263\n  orig: 169, 263\n  offset: 0, 0\n  index: -1\neff/bot\n  rotate: false\n  xy: 2, 77\n  size: 214, 308\n  orig: 214, 308\n  offset: 0, 0\n  index: -1\n"}

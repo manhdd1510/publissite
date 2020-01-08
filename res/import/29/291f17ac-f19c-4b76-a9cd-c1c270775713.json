@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"home-background.atlas","text":"\nhome-background.png\nsize: 2048,2048\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nhome/bg\n  rotate: false\n  xy: 2, 638\n  size: 1280, 720\n  orig: 1280, 720\n  offset: 0, 0\n  index: -1\nhome/light\n  rotate: false\n  xy: 2, 2\n  size: 345, 634\n  orig: 345, 634\n  offset: 0, 0\n  index: -1\n"}
